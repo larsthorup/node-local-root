@@ -1,0 +1,19 @@
+{
+  "name": "@larsthorup/root",
+  "version": "0.1.0",
+  "description": "Simplify loading assets from local modules",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsthorup/node-local-root.git"
+  },
+  "keywords": [],
+  "author": "Lars Thorup <lars@zealake.com> (http://github.com/larsthorup)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larsthorup/node-local-root/issues"
+  },
+  "homepage": "https://github.com/larsthorup/node-local-root#readme",
+  "files": [
+    "index.js"
+  ]
+}
